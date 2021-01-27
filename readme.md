@@ -1,4 +1,4 @@
-# Simple example of Test Framework for SQL using Python, Sqlite, Pytest
+# Simple example of Test Framework for SQL using Python, SQLite, Pytest
 ## init db
 ```
 python setupdb.py
