@@ -1,5 +1,10 @@
-# Simple example of Test Framework for SQL using Python, SQLite, Pytest
-## init db
+# Simple example of SQL Test Framework using Python, SQLite, and Pytest.
+#### Clone project:
+```
+git clone https://github.com/vsshk/python-pytest-sqlite-example-simple.git
+cd python-pytest-sqlite-example-simple
+```
+## Create db
 ```
 python setupdb.py
 ```
@@ -11,4 +16,4 @@ pip install -r requirements.txt
 ```
 pytest -v 
 ```
-Please give a "star" if it helped you.
+* Please give a "star" if it helped you.
